@@ -6,11 +6,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   --> A rework of https://react-rookies-nepal.herokuapp.com/ to make code cleaner and the CSS better at https://github.com/arjandhakal/ecommerceFrontend 
-   --
+
   --> A react app that uses clarifai API to detect and highlight faces in a photo. Connects to a backend Node API for login and tracking no of uploads.
-   --
        https://github.com/arjandhakal/simplefacerecogntion
-        --
+
 - 🌱 I’m currently learning Sorting alorithms , Python , Japanese Language(😵) 
 - 📫 How to reach me: Mail me at dhakal.arjan@gmail.com
 
