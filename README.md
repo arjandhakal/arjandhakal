@@ -1,14 +1,8 @@
 **Hello , This is Arjan Dhakal. Don't know how you stumbled here but hope you're having a good day. Just a guy interested in computer, programming and Japanese language.  👋**
 
- *🔭 I am currently working on:*
-
- - A rework of https://react-rookies-nepal.herokuapp.com/ to make code cleaner and the CSS better at https://github.com/arjandhakal/ecommerceFrontend 
- - A react app that uses Clarifai API to detect and highlight faces in a photo. Connects to a backend Node API for login and tracking no of uploads.
-       https://github.com/arjandhakal/simplefacerecogntion
 
  *🌱 *I’m currently learning  Python , Japanese Language*(😵)
  
- *📫 *How to reach me: Mail me at dhakal.arjan@gmail.com*
  
   *⚡ *Past Projects :* 
   
