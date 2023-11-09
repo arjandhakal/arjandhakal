@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjan Dhakal</h1>
 <h3 align="center">A software engineer who loves reading</h3>
 
-- 🔭 I’m currently reading [HTDP](https://htdp.org/2023-8-14/Book/index.html)
-
-- 🌱 I’m currently learning [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 
 - 📝 I regularly write articles on [https://blog.arjandhakal.com.np/](https://blog.arjandhakal.com.np/)
 
