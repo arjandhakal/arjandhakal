@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer who loves reading</h3>
 
 
-- 📝 I regularly write articles on [https://blog.arjandhakal.com.np/](https://blog.arjandhakal.com.np/)
+- 📝 You can read some articles I write from [my website.](https://arjandhakal.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
