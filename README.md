@@ -1,6 +1,6 @@
 <h3 align="center">Just a chasing dolphin</h3>
 
-I've got a [website](https://arjandhakal.com.np/).
+You can see what I am upto from [here](https://arjandhakal.com.np/now).
 
 <h3 align="left">You can reach me at: </h3>
 <p align="left">
